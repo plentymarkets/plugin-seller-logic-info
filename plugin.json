@@ -8,6 +8,7 @@
 	"shortDescription"  : {"de": "Lost & Found analysiert automatisch und ausnahmslos alle FBA-Transaktionen und zeigt verdeckte Erstattungsansprüche auf.", "en": "Lost & Found analyses all FBA transactions automatically and without fail, revealing hidden claims for refund."},
 	"author"            : "plentymarkets GmbH",
 	"price"				: 0.00,
+	"license"			: "AGPL-3.0",
 	"categories"        : ["3521"],
 	"keywords"          : ["sellerLogic", "amazon", "lost", "and", "found"],
 	"type"              : "tool",
