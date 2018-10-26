@@ -1,0 +1,19 @@
+{
+	"version"           : "1.0.0",
+	"name"              : "SellerLogicLostAndFound",
+	"marketplaceName"   : {"de": "SellerLogic Amazon Lost & Found","en": "SellerLogic Amazon Lost & Found"},
+	"pluginIcon"        : "icon_plugin_xs.png",
+	"authorIcon"        : "icon_author_xs.png",
+	"description"       : "Uncovering FBA errors using Amazon’s Lost & Found.",
+	"shortDescription"  : {"de": "Lost & Found analysiert automatisch und ausnahmslos alle FBA-Transaktionen und zeigt verdeckte Erstattungsansprüche auf.", "en": "Lost & Found analyses all FBA transactions automatically and without fail, revealing hidden claims for refund."},
+	"author"            : "plentymarkets GmbH",
+	"price"				: 0.00,
+	"categories"        : ["3521"],
+	"keywords"          : ["sellerLogic", "amazon", "lost", "and", "found"],
+	"type"              : "tool",
+	"isExternalTool"	: true,
+	"forwardLink"		: "https://client.sellerlogic.com/site/register?/PartnerId=fd7KJd93hK",
+	"namespace"         : "SellerLogicLostAndFound",
+	"serviceProvider"   : "SellerLogicLostAndFound",
+	"javaScriptFiles"   : []
+}
