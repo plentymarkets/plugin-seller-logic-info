@@ -5,7 +5,10 @@
 	"pluginIcon"        : "icon_plugin_xs.png",
 	"authorIcon"        : "icon_author_xs.png",
 	"description"       : "Uncovering FBA errors using Amazon’s Lost & Found.",
-	"shortDescription"  : {"de": "Lost & Found analysiert automatisch und ausnahmslos alle FBA-Transaktionen und zeigt verdeckte Erstattungsansprüche auf.", "en": "Lost & Found analyses all FBA transactions automatically and without fail, revealing hidden claims for refund."},
+	"shortDescription"  : {
+		"de": "Durch nicht reklamierte FBA-Fehler geht viel Geld verloren: Lost & Found findet diese automatisch.",
+		"en": "A lot of money is lost due to unreclaimed FBA errors: Lost & Found finds them automatically."
+	},
 	"author"            : "plentymarkets GmbH",
 	"price"				: 0.00,
 	"license"			: "AGPL-3.0",
