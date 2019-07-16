@@ -1,5 +1,5 @@
 {
-	"version"           : "1.0.0",
+	"version"           : "1.0.1",
 	"name"              : "SellerLogicLostAndFound",
 	"marketplaceName"   : {"de": "SellerLogic Amazon Lost & Found","en": "SellerLogic Amazon Lost & Found"},
 	"pluginIcon"        : "icon_plugin_xs.png",
